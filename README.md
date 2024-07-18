@@ -15,6 +15,7 @@ This project focuses on developing a pneumatic sand ramming machine integrated w
 - Moisture Sensors
 - Compressor
 - Pneumatic Ramming Machine
+- Electronic Solenoid Valve
 - Arduino Board
 
 ## Software Requirements
@@ -54,10 +55,6 @@ The Python analysis in this project involves plotting relationships between forc
 - **Correlation Analysis**: A heatmap to show the correlation between force, hardness, and moisture levels.
 
 ### Results
-The analysis indicates a positive correlation between the applied force and mold hardness. As shown in the attached plot:
-
-![)
-
 The table below presents the observed force and mold hardness values:
 
 | Force (Newtons) | Mold Hardness (Shore A) |
@@ -68,6 +65,7 @@ The table below presents the observed force and mold hardness values:
 | 275             | 71.80                   |
 | 300             | 74.14                   |
 
+The analysis indicates a positive correlation between the applied force and mold hardness.
 The optimal mold hardness of 65 Shore A requires an applied force of 235 Newtons.
 
 ### Libraries Used
