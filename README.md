@@ -1,6 +1,3 @@
-Here is the updated README file with the additional details, including the positive correlation results, a table of force and mold hardness values, and the specific result for the optimal mold hardness:
-
----
 
 # Pneumatic Sand Ramming Machine with Sensors
 
